@@ -1,0 +1,6 @@
+\\atxentwfps-p02\users\sathyakr\Downloads\LeadSquared_PS\LeadSquared_PS\LeadSquared_PS\bin\Debug\LeadSquared_PS.exe.config
+\\atxentwfps-p02\users\sathyakr\Downloads\LeadSquared_PS\LeadSquared_PS\LeadSquared_PS\bin\Debug\LeadSquared_PS.exe
+\\atxentwfps-p02\users\sathyakr\Downloads\LeadSquared_PS\LeadSquared_PS\LeadSquared_PS\bin\Debug\LeadSquared_PS.pdb
+\\atxentwfps-p02\users\sathyakr\Downloads\LeadSquared_PS\LeadSquared_PS\LeadSquared_PS\obj\Debug\LeadSquared_PS.csprojResolveAssemblyReference.cache
+\\atxentwfps-p02\users\sathyakr\Downloads\LeadSquared_PS\LeadSquared_PS\LeadSquared_PS\obj\Debug\LeadSquared_PS.exe
+\\atxentwfps-p02\users\sathyakr\Downloads\LeadSquared_PS\LeadSquared_PS\LeadSquared_PS\obj\Debug\LeadSquared_PS.pdb
